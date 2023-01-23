@@ -1,0 +1,3 @@
+C:/studenti/2022_2023/PRP/IT1/P1/polomerSwitch/cmake-build-debug/CMakeFiles/polomerSwitch.dir
+C:/studenti/2022_2023/PRP/IT1/P1/polomerSwitch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/studenti/2022_2023/PRP/IT1/P1/polomerSwitch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
